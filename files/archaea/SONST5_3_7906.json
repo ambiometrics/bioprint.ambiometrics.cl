@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Archaea",
+    "n": 1238235,
+    "c": [
+      {
+        "name": "Thermoproteota",
+        "n": 872460,
+        "c": [
+          {
+            "name": "Nitrososphaeria_A",
+            "n": 872460,
+            "c": [
+              {
+                "name": "Nitrososphaerales",
+                "n": 872460,
+                "c": [
+                  {
+                    "name": "Nitrosopumilaceae",
+                    "n": 856072,
+                    "c": [
+                      {
+                        "name": "Nitrosopelagicus",
+                        "n": 850913,
+                        "c": [
+                          {
+                            "name": "Nitrosopelagicus sp000402075",
+                            "n": 602299,
+                            "c": []
+                          },
+                          {
+                            "name": "Nitrosopelagicus brevis",
+                            "n": 76297,
+                            "c": []
+                          },
+                          {
+                            "name": "Nitrosopelagicus sp001627235",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Nitrosopumilus_5141",
+                        "n": 4954,
+                        "c": [
+                          {
+                            "name": "Nitrosopumilus sp002317795",
+                            "n": 1328,
+                            "c": []
+                          },
+                          {
+                            "name": "Nitrosopumilus sp001437625",
+                            "n": 2370,
+                            "c": []
+                          },
+                          {
+                            "name": "Nitrosopumilus sp000746765",
+                            "n": 31,
+                            "c": []
+                          },
+                          {
+                            "name": "Nitrosopumilus adriaticus",
+                            "n": 303,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Nitrosarchaeum",
+                        "n": 169,
+                        "c": [
+                          {
+                            "name": "Nitrosarchaeum limnae",
+                            "n": 169,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Nitrosopumilus_4976",
+                        "n": 22,
+                        "c": [
+                          {
+                            "name": "Nitrosopumilus sp003724285",
+                            "n": 22,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "PXYB01",
+                        "n": 2,
+                        "c": []
+                      },
+                      {
+                        "name": "CSP1-1",
+                        "n": 12,
+                        "c": [
+                          {
+                            "name": "CSP1-1 sp001443365",
+                            "n": 12,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thermoplasmatota",
+        "n": 364666,
+        "c": [
+          {
+            "name": "Poseidoniia",
+            "n": 364666,
+            "c": [
+              {
+                "name": "Poseidoniales",
+                "n": 253169,
+                "c": [
+                  {
+                    "name": "Thalassarchaeaceae",
+                    "n": 242537,
+                    "c": [
+                      {
+                        "name": "UBA36",
+                        "n": 132158,
+                        "c": [
+                          {
+                            "name": "UBA36 sp003602515",
+                            "n": 6048,
+                            "c": []
+                          },
+                          {
+                            "name": "UBA36 sp002725315",
+                            "n": 1,
+                            "c": []
+                          },
+                          {
+                            "name": "UBA36 sp902573115",
+                            "n": 184,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MGIIb-O1",
+                        "n": 20118,
+                        "c": [
+                          {
+                            "name": "MGIIb-O1 sp002498525",
+                            "n": 150,
+                            "c": []
+                          },
+                          {
+                            "name": "MGIIb-O1 sp002457555",
+                            "n": 2519,
+                            "c": []
+                          },
+                          {
+                            "name": "MGIIb-O1 sp011523185",
+                            "n": 21,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MGIIb-O5",
+                        "n": 74751,
+                        "c": [
+                          {
+                            "name": "MGIIb-O5 sp002501605",
+                            "n": 74751,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Thalassarchaeum",
+                        "n": 14930,
+                        "c": [
+                          {
+                            "name": "Thalassarchaeum sp002501885",
+                            "n": 10183,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MGIIb-O2",
+                        "n": 7,
+                        "c": [
+                          {
+                            "name": "MGIIb-O2 sp002686525",
+                            "n": 7,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Poseidoniaceae",
+                    "n": 10632,
+                    "c": [
+                      {
+                        "name": "MGIIa-I",
+                        "n": 8171,
+                        "c": [
+                          {
+                            "name": "MGIIa-I sp002720095",
+                            "n": 7245,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MGIIa-L1_1279",
+                        "n": 248,
+                        "c": [
+                          {
+                            "name": "MGIIa-L1 sp9513u",
+                            "n": 82,
+                            "c": []
+                          },
+                          {
+                            "name": "MGIIa-L1 sp002499015",
+                            "n": 119,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Poseidonia",
+                        "n": 19,
+                        "c": [
+                          {
+                            "name": "Poseidonia sp902625885",
+                            "n": 19,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "UBA226",
+                        "n": 1083,
+                        "c": [
+                          {
+                            "name": "UBA226 sp012959275",
+                            "n": 1083,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MGIIa-K1",
+                        "n": 889,
+                        "c": [
+                          {
+                            "name": "MGIIa-K1 sp902605365",
+                            "n": 735,
+                            "c": []
+                          },
+                          {
+                            "name": "MGIIa-K1 sp902563095",
+                            "n": 154,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MGIIa-L2",
+                        "n": 222,
+                        "c": [
+                          {
+                            "name": "MGIIa-L2 sp002726845",
+                            "n": 222,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "MGIII",
+                "n": 111497,
+                "c": [
+                  {
+                    "name": "CG-Epi1",
+                    "n": 111497,
+                    "c": [
+                      {
+                        "name": "CG-Epi1",
+                        "n": 18949,
+                        "c": [
+                          {
+                            "name": "CG-Epi1 sp902531985",
+                            "n": 18785,
+                            "c": []
+                          },
+                          {
+                            "name": "CG-Epi1 sp002497685",
+                            "n": 164,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halobacteriota",
+        "n": 1105,
+        "c": [
+          {
+            "name": "Halobacteria",
+            "n": 1105,
+            "c": [
+              {
+                "name": "Halobacteriales",
+                "n": 1105,
+                "c": [
+                  {
+                    "name": "UBA12382",
+                    "n": 1105,
+                    "c": [
+                      {
+                        "name": "UBA12382",
+                        "n": 1105,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Nanoarchaeota",
+        "n": 2,
+        "c": [
+          {
+            "name": "Nanoarchaeia",
+            "n": 2,
+            "c": [
+              {
+                "name": "SCGC-AAA011-G17",
+                "n": 2,
+                "c": [
+                  {
+                    "name": "GW2011-AR20",
+                    "n": 2,
+                    "c": [
+                      {
+                        "name": "GCA-2688355",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "GCA-2688355 sp002688355",
+                            "n": 2,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Methanobacteriota_B",
+        "n": 2,
+        "c": [
+          {
+            "name": "Thermococci",
+            "n": 2,
+            "c": [
+              {
+                "name": "Thermococcales",
+                "n": 2,
+                "c": [
+                  {
+                    "name": "Thermococcaceae",
+                    "n": 2,
+                    "c": [
+                      {
+                        "name": "Thermococcus_A_6248",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Thermococcus_A_6248 eurythermalis",
+                            "n": 2,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
