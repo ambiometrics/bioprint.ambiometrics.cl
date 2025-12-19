@@ -1,0 +1,5454 @@
+[
+  {
+    "name": "Bacteria",
+    "n": 487176,
+    "c": [
+      {
+        "name": "Pseudomonadati",
+        "n": 465419,
+        "c": [
+          {
+            "name": "Pseudomonadota",
+            "n": 324274,
+            "c": [
+              {
+                "name": "Alphaproteobacteria",
+                "n": 108062,
+                "c": [
+                  {
+                    "name": "Sphingomonadales",
+                    "n": 17525,
+                    "c": [
+                      {
+                        "name": "Sphingomonadaceae",
+                        "n": 17160,
+                        "c": [
+                          {
+                            "name": "Sphingobium",
+                            "n": 17034,
+                            "c": [
+                              {
+                                "name": "Sphingobium_yanoikuyae",
+                                "n": 17028,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Sphingobium",
+                                "n": 6,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Sphingomonas",
+                            "n": 43,
+                            "c": [
+                              {
+                                "name": "unclassified_Sphingomonas",
+                                "n": 2,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 10,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Blastomonas",
+                            "n": 57,
+                            "c": []
+                          },
+                          {
+                            "name": "Sphingopyxis",
+                            "n": 4,
+                            "c": []
+                          },
+                          {
+                            "name": "Citromicrobium",
+                            "n": 16,
+                            "c": [
+                              {
+                                "name": "unclassified_Citromicrobium",
+                                "n": 16,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 46,
+                        "c": []
+                      },
+                      {
+                        "name": "Erythrobacteraceae",
+                        "n": 319,
+                        "c": [
+                          {
+                            "name": "Erythrobacter/Porphyrobacter_group",
+                            "n": 172,
+                            "c": [
+                              {
+                                "name": "Erythrobacter",
+                                "n": 172,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 169,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "unclassified_Erythrobacter",
+                                    "n": 3,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Paraurantiacibacter",
+                            "n": 19,
+                            "c": []
+                          },
+                          {
+                            "name": "Croceicoccus",
+                            "n": 2,
+                            "c": []
+                          },
+                          {
+                            "name": "Alteriqipengyuania",
+                            "n": 106,
+                            "c": []
+                          },
+                          {
+                            "name": "Aurantiacibacter",
+                            "n": 15,
+                            "c": []
+                          },
+                          {
+                            "name": "Altererythrobacter",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "unclassified_Altererythrobacter",
+                                "n": 5,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Candidatus_Pelagibacterales",
+                    "n": 43086,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 41585,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Pelagibacteraceae",
+                        "n": 1501,
+                        "c": [
+                          {
+                            "name": "unclassified_Pelagibacteraceae",
+                            "n": 1474,
+                            "c": []
+                          },
+                          {
+                            "name": "Candidatus_Pelagibacter",
+                            "n": 27,
+                            "c": [
+                              {
+                                "name": "Candidatus_Pelagibacter_communis",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Candidatus_Pelagibacter",
+                                "n": 11,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 15,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "environmental_samples",
+                    "n": 34158,
+                    "c": []
+                  },
+                  {
+                    "name": "Rhodobacterales",
+                    "n": 3434,
+                    "c": [
+                      {
+                        "name": "Roseobacteraceae",
+                        "n": 2668,
+                        "c": [
+                          {
+                            "name": "Sulfitobacter",
+                            "n": 270,
+                            "c": [
+                              {
+                                "name": "unclassified_Sulfitobacter",
+                                "n": 212,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 47,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Roseobacter",
+                            "n": 549,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 549,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Sagittula",
+                            "n": 1,
+                            "c": []
+                          },
+                          {
+                            "name": "Shimia",
+                            "n": 26,
+                            "c": [
+                              {
+                                "name": "unclassified_Shimia",
+                                "n": 26,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Oceanicola",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "unclassified_Oceanicola",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Pseudosulfitobacter",
+                            "n": 25,
+                            "c": []
+                          },
+                          {
+                            "name": "Palleronia",
+                            "n": 33,
+                            "c": [
+                              {
+                                "name": "unclassified_Palleronia",
+                                "n": 33,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Jannaschia",
+                            "n": 3,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "unclassified_Rhodobacterales",
+                        "n": 9,
+                        "c": []
+                      },
+                      {
+                        "name": "Paracoccaceae",
+                        "n": 345,
+                        "c": [
+                          {
+                            "name": "Pseudooceanicola",
+                            "n": 4,
+                            "c": []
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 278,
+                            "c": []
+                          },
+                          {
+                            "name": "Pacificitalea",
+                            "n": 8,
+                            "c": []
+                          },
+                          {
+                            "name": "unclassified_Paracoccaceae",
+                            "n": 11,
+                            "c": []
+                          },
+                          {
+                            "name": "Paracoccus",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Limimaricola",
+                            "n": 7,
+                            "c": []
+                          },
+                          {
+                            "name": "Parasedimentitalea",
+                            "n": 13,
+                            "c": []
+                          },
+                          {
+                            "name": "Planktotalea",
+                            "n": 23,
+                            "c": [
+                              {
+                                "name": "unclassified_Planktotalea",
+                                "n": 23,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 412,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Hyphomonadales",
+                    "n": 17,
+                    "c": [
+                      {
+                        "name": "Hyphomonadaceae",
+                        "n": 17,
+                        "c": [
+                          {
+                            "name": "Hyphomonas",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 5,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Henriciella",
+                            "n": 12,
+                            "c": [
+                              {
+                                "name": "Henriciella_marina",
+                                "n": 12,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Hyphomicrobiales",
+                    "n": 2904,
+                    "c": [
+                      {
+                        "name": "Phyllobacteriaceae",
+                        "n": 2142,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 2142,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rhizobiaceae",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Rhizobium/Agrobacterium_group",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Rhizobium",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "Rhizobium_leguminosarum",
+                                    "n": 1,
+                                    "c": [
+                                      {
+                                        "name": "Rhizobium_leguminosarum_bv._viciae",
+                                        "n": 1,
+                                        "c": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Lentilitoribacter",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Parvibaculaceae",
+                        "n": 141,
+                        "c": [
+                          {
+                            "name": "Parvibaculum",
+                            "n": 141,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 141,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 600,
+                        "c": []
+                      },
+                      {
+                        "name": "Methylobacteriaceae",
+                        "n": 3,
+                        "c": [
+                          {
+                            "name": "unclassified_Methylobacteriaceae",
+                            "n": 3,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Boseaceae",
+                        "n": 10,
+                        "c": [
+                          {
+                            "name": "Bosea",
+                            "n": 10,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rhodobiaceae",
+                        "n": 3,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 3,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Devosiaceae",
+                        "n": 3,
+                        "c": [
+                          {
+                            "name": "Maritalea",
+                            "n": 3,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Alphaproteobacteria",
+                    "n": 25,
+                    "c": []
+                  },
+                  {
+                    "name": "Caulobacterales",
+                    "n": 6,
+                    "c": [
+                      {
+                        "name": "Caulobacteraceae",
+                        "n": 6,
+                        "c": [
+                          {
+                            "name": "Caulobacter",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Brevundimonas",
+                            "n": 5,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Rhodospirillales",
+                    "n": 2825,
+                    "c": [
+                      {
+                        "name": "Rhodospirillaceae",
+                        "n": 1584,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 1584,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 1157,
+                        "c": []
+                      },
+                      {
+                        "name": "Thalassospiraceae",
+                        "n": 4,
+                        "c": [
+                          {
+                            "name": "Thalassospira",
+                            "n": 4,
+                            "c": [
+                              {
+                                "name": "Thalassospira_xiamenensis",
+                                "n": 4,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Oceanibaculaceae",
+                        "n": 67,
+                        "c": [
+                          {
+                            "name": "Oceanibaculum",
+                            "n": 67,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 67,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Terasakiellaceae",
+                        "n": 5,
+                        "c": []
+                      },
+                      {
+                        "name": "Azospirillaceae",
+                        "n": 8,
+                        "c": [
+                          {
+                            "name": "Azospirillum",
+                            "n": 8,
+                            "c": [
+                              {
+                                "name": "unclassified_Azospirillum",
+                                "n": 8,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Rickettsiales",
+                    "n": 3568,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 3429,
+                        "c": []
+                      },
+                      {
+                        "name": "Anaplasmataceae",
+                        "n": 87,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 14,
+                            "c": []
+                          },
+                          {
+                            "name": "Wolbachieae",
+                            "n": 73,
+                            "c": [
+                              {
+                                "name": "Wolbachia",
+                                "n": 73,
+                                "c": [
+                                  {
+                                    "name": "unclassified_Wolbachia",
+                                    "n": 73,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rickettsiaceae",
+                        "n": 5,
+                        "c": [
+                          {
+                            "name": "Rickettsieae",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "Rickettsia",
+                                "n": 5,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 5,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Candidatus_Midichloriaceae",
+                        "n": 39,
+                        "c": [
+                          {
+                            "name": "Candidatus_Midichloria",
+                            "n": 6,
+                            "c": [
+                              {
+                                "name": "unclassified_Candidatus_Midichloria",
+                                "n": 6,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Candidatus_Bandiella",
+                            "n": 33,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rickettsiales_genera_incertae_sedis",
+                        "n": 8,
+                        "c": [
+                          {
+                            "name": "Sinorickettsia",
+                            "n": 8,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Maricaulales",
+                    "n": 388,
+                    "c": [
+                      {
+                        "name": "Robiginitomaculaceae",
+                        "n": 337,
+                        "c": [
+                          {
+                            "name": "Litorimonas",
+                            "n": 337,
+                            "c": [
+                              {
+                                "name": "unclassified_Litorimonas",
+                                "n": 337,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Maricaulaceae",
+                        "n": 51,
+                        "c": [
+                          {
+                            "name": "Marinicauda",
+                            "n": 40,
+                            "c": []
+                          },
+                          {
+                            "name": "Euryhalocaulis",
+                            "n": 2,
+                            "c": []
+                          },
+                          {
+                            "name": "Oceanicaulis",
+                            "n": 9,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Alphaproteobacteria_incertae_sedis",
+                    "n": 88,
+                    "c": [
+                      {
+                        "name": "OCS116_cluster",
+                        "n": 88,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sneathiellales",
+                    "n": 1,
+                    "c": [
+                      {
+                        "name": "Sneathiellaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Sneathiella",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Gammaproteobacteria",
+                "n": 215713,
+                "c": [
+                  {
+                    "name": "Oceanospirillales",
+                    "n": 32020,
+                    "c": [
+                      {
+                        "name": "Alcanivoracaceae",
+                        "n": 23604,
+                        "c": [
+                          {
+                            "name": "Alcanivorax",
+                            "n": 22525,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 22525,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Alloalcanivorax",
+                            "n": 1079,
+                            "c": [
+                              {
+                                "name": "Alloalcanivorax_venustensis",
+                                "n": 1079,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 6889,
+                        "c": []
+                      },
+                      {
+                        "name": "Oceanospirillaceae",
+                        "n": 240,
+                        "c": [
+                          {
+                            "name": "unclassified_Oceanospirillaceae",
+                            "n": 15,
+                            "c": []
+                          },
+                          {
+                            "name": "Oleispira",
+                            "n": 155,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 155,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Profundimonas",
+                            "n": 65,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Halomonadaceae",
+                        "n": 1287,
+                        "c": [
+                          {
+                            "name": "Halomonas",
+                            "n": 430,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 417,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Halomonas",
+                                "n": 13,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 69,
+                            "c": []
+                          },
+                          {
+                            "name": "Halovibrio",
+                            "n": 6,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Alteromonadales",
+                    "n": 146012,
+                    "c": [
+                      {
+                        "name": "Pseudoalteromonadaceae",
+                        "n": 116345,
+                        "c": [
+                          {
+                            "name": "Pseudoalteromonas",
+                            "n": 116345,
+                            "c": [
+                              {
+                                "name": "Pseudoalteromonas_agarivorans",
+                                "n": 73531,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 886,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Pseudoalteromonas",
+                                "n": 35,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Idiomarinaceae",
+                        "n": 17074,
+                        "c": [
+                          {
+                            "name": "Idiomarina",
+                            "n": 17074,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 17071,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Alteromonadaceae",
+                        "n": 10835,
+                        "c": [
+                          {
+                            "name": "Alteromonas/Salinimonas_group",
+                            "n": 10835,
+                            "c": [
+                              {
+                                "name": "Alteromonas",
+                                "n": 10835,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 1241,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "unclassified_Alteromonas",
+                                    "n": 67,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Alteromonas_mediterranea",
+                                    "n": 82,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Shewanellaceae",
+                        "n": 1118,
+                        "c": [
+                          {
+                            "name": "Shewanella",
+                            "n": 1118,
+                            "c": [
+                              {
+                                "name": "Shewanella_halifaxensis",
+                                "n": 300,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 17,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Moritellaceae",
+                        "n": 39,
+                        "c": [
+                          {
+                            "name": "Moritella",
+                            "n": 39,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Colwelliaceae",
+                        "n": 601,
+                        "c": [
+                          {
+                            "name": "Colwellia",
+                            "n": 381,
+                            "c": [
+                              {
+                                "name": "unclassified_Colwellia",
+                                "n": 132,
+                                "c": []
+                              },
+                              {
+                                "name": "Colwellia_piezophila",
+                                "n": 106,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 137,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Thalassotalea",
+                            "n": 212,
+                            "c": [
+                              {
+                                "name": "unclassified_Thalassotalea",
+                                "n": 212,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Thalassomonas",
+                            "n": 8,
+                            "c": [
+                              {
+                                "name": "unclassified_Thalassomonas",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Gammaproteobacteria_incertae_sedis",
+                    "n": 8163,
+                    "c": [
+                      {
+                        "name": "Candidatus_Pseudothioglobaceae",
+                        "n": 2182,
+                        "c": [
+                          {
+                            "name": "Candidatus_Thioglobus",
+                            "n": 2182,
+                            "c": [
+                              {
+                                "name": "unclassified_Candidatus_Thioglobus",
+                                "n": 2182,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "sulfur-oxidizing_symbionts",
+                        "n": 5128,
+                        "c": [
+                          {
+                            "name": "Bathymodiolus_septemdierum_thioautotrophic_gill_symbiont",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "SAR86_cluster",
+                        "n": 525,
+                        "c": []
+                      },
+                      {
+                        "name": "SAR156_cluster",
+                        "n": 310,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 310,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Candidatus_Yamatotia",
+                        "n": 18,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "environmental_samples",
+                    "n": 14313,
+                    "c": []
+                  },
+                  {
+                    "name": "Pseudomonadales",
+                    "n": 3808,
+                    "c": [
+                      {
+                        "name": "Marinobacteraceae",
+                        "n": 3521,
+                        "c": [
+                          {
+                            "name": "Marinobacter",
+                            "n": 3521,
+                            "c": [
+                              {
+                                "name": "unclassified_Marinobacter",
+                                "n": 3487,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 14,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Pseudomonadaceae",
+                        "n": 285,
+                        "c": [
+                          {
+                            "name": "Halopseudomonas",
+                            "n": 3,
+                            "c": []
+                          },
+                          {
+                            "name": "Pseudomonas",
+                            "n": 197,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 107,
+                                "c": []
+                              },
+                              {
+                                "name": "Pseudomonas_putida_group",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Pseudomonas",
+                                "n": 15,
+                                "c": []
+                              },
+                              {
+                                "name": "Pseudomonas_syringae_group",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "Pseudomonas_syringae_group_genomosp._2",
+                                    "n": 1,
+                                    "c": [
+                                      {
+                                        "name": "Pseudomonas_amygdali",
+                                        "n": 1,
+                                        "c": [
+                                          {
+                                            "name": "Pseudomonas_amygdali_pv._tabaci",
+                                            "n": 1,
+                                            "c": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 85,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Pseudohongiellaceae",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Pseudohongiella",
+                            "n": 2,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Gammaproteobacteria",
+                    "n": 651,
+                    "c": []
+                  },
+                  {
+                    "name": "Vibrionales",
+                    "n": 10289,
+                    "c": [
+                      {
+                        "name": "Vibrionaceae",
+                        "n": 10289,
+                        "c": [
+                          {
+                            "name": "Vibrio",
+                            "n": 10197,
+                            "c": [
+                              {
+                                "name": "unclassified_Vibrio",
+                                "n": 3792,
+                                "c": []
+                              },
+                              {
+                                "name": "Vibrio_harveyi_group",
+                                "n": 14,
+                                "c": [
+                                  {
+                                    "name": "Vibrio_natriegens",
+                                    "n": 14,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 7,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Photobacterium",
+                            "n": 91,
+                            "c": [
+                              {
+                                "name": "Photobacterium_profundum",
+                                "n": 10,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Photobacterium",
+                                "n": 78,
+                                "c": []
+                              },
+                              {
+                                "name": "Photobacterium_damselae",
+                                "n": 3,
+                                "c": [
+                                  {
+                                    "name": "Photobacterium_damselae_subsp._damselae",
+                                    "n": 3,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Paraphotobacterium",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Moraxellales",
+                    "n": 18,
+                    "c": [
+                      {
+                        "name": "Moraxellaceae",
+                        "n": 18,
+                        "c": [
+                          {
+                            "name": "Acinetobacter",
+                            "n": 4,
+                            "c": [
+                              {
+                                "name": "unclassified_Acinetobacter",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "Acinetobacter_junii",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Moraxella",
+                            "n": 2,
+                            "c": []
+                          },
+                          {
+                            "name": "Psychrobacter",
+                            "n": 3,
+                            "c": []
+                          },
+                          {
+                            "name": "Alkanindiges",
+                            "n": 9,
+                            "c": [
+                              {
+                                "name": "unclassified_Alkanindiges",
+                                "n": 9,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Nevskiales",
+                    "n": 11,
+                    "c": [
+                      {
+                        "name": "Nevskiaceae",
+                        "n": 11,
+                        "c": [
+                          {
+                            "name": "Alkanibacter",
+                            "n": 11,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Cellvibrionales",
+                    "n": 56,
+                    "c": [
+                      {
+                        "name": "Porticoccaceae",
+                        "n": 11,
+                        "c": [
+                          {
+                            "name": "unclassified_Porticoccaceae",
+                            "n": 11,
+                            "c": [
+                              {
+                                "name": "SAR92_clade",
+                                "n": 11,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Cellvibrionaceae",
+                        "n": 32,
+                        "c": [
+                          {
+                            "name": "Umboniibacter",
+                            "n": 22,
+                            "c": []
+                          },
+                          {
+                            "name": "Agarilytica",
+                            "n": 10,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Spongiibacteraceae",
+                        "n": 11,
+                        "c": [
+                          {
+                            "name": "Sinobacterium",
+                            "n": 4,
+                            "c": []
+                          },
+                          {
+                            "name": "Dasania",
+                            "n": 7,
+                            "c": [
+                              {
+                                "name": "Dasania_marina",
+                                "n": 7,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Halieaceae",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "unclassified_Halieaceae",
+                            "n": 2,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Thiotrichales",
+                    "n": 190,
+                    "c": [
+                      {
+                        "name": "Piscirickettsiaceae",
+                        "n": 48,
+                        "c": [
+                          {
+                            "name": "Methylophaga",
+                            "n": 48,
+                            "c": [
+                              {
+                                "name": "unclassified_Methylophaga",
+                                "n": 38,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Thiotrichaceae",
+                        "n": 40,
+                        "c": [
+                          {
+                            "name": "Thiomargarita",
+                            "n": 30,
+                            "c": []
+                          },
+                          {
+                            "name": "Beggiatoa",
+                            "n": 10,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 10,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Fastidiosibacteraceae",
+                        "n": 96,
+                        "c": [
+                          {
+                            "name": "Cysteiniphilum",
+                            "n": 80,
+                            "c": []
+                          },
+                          {
+                            "name": "Fangia",
+                            "n": 16,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 6,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Salinisphaerales",
+                    "n": 24,
+                    "c": [
+                      {
+                        "name": "Salinisphaeraceae",
+                        "n": 24,
+                        "c": [
+                          {
+                            "name": "Salinisphaera",
+                            "n": 24,
+                            "c": [
+                              {
+                                "name": "Salinisphaera_orenii",
+                                "n": 2,
+                                "c": []
+                              },
+                              {
+                                "name": "Salinisphaera_dokdonensis",
+                                "n": 19,
+                                "c": []
+                              },
+                              {
+                                "name": "Salinisphaera_japonica",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chromatiales",
+                    "n": 8,
+                    "c": [
+                      {
+                        "name": "Ectothiorhodospiraceae",
+                        "n": 8,
+                        "c": [
+                          {
+                            "name": "Ectothiorhodospira",
+                            "n": 8,
+                            "c": [
+                              {
+                                "name": "unclassified_Ectothiorhodospira",
+                                "n": 8,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Legionellales",
+                    "n": 104,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 79,
+                        "c": []
+                      },
+                      {
+                        "name": "Legionellaceae",
+                        "n": 10,
+                        "c": [
+                          {
+                            "name": "Legionella",
+                            "n": 10,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 10,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Coxiellaceae",
+                        "n": 15,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 3,
+                            "c": []
+                          },
+                          {
+                            "name": "Coxiella",
+                            "n": 12,
+                            "c": [
+                              {
+                                "name": "Coxiella_burnetii",
+                                "n": 4,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 8,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Pasteurellales",
+                    "n": 23,
+                    "c": [
+                      {
+                        "name": "Pasteurellaceae",
+                        "n": 23,
+                        "c": [
+                          {
+                            "name": "Haemophilus",
+                            "n": 23,
+                            "c": [
+                              {
+                                "name": "Haemophilus_influenzae",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Methylococcales",
+                    "n": 8,
+                    "c": [
+                      {
+                        "name": "Methylococcaceae",
+                        "n": 8,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 8,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Betaproteobacteria",
+                "n": 492,
+                "c": [
+                  {
+                    "name": "Burkholderiales",
+                    "n": 9,
+                    "c": [
+                      {
+                        "name": "Burkholderiaceae",
+                        "n": 7,
+                        "c": [
+                          {
+                            "name": "Paraburkholderia",
+                            "n": 4,
+                            "c": [
+                              {
+                                "name": "Paraburkholderia_phenoliruptrix",
+                                "n": 4,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Ralstonia",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Lautropia",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Comamonadaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Variovorax",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Oxalobacteraceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Herbaspirillum",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Herbaspirillum_huttiense",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "Herbaspirillum_huttiense_subsp._putei",
+                                    "n": 1,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Nitrosomonadales",
+                    "n": 271,
+                    "c": [
+                      {
+                        "name": "unclassified_Nitrosomonadales",
+                        "n": 147,
+                        "c": [
+                          {
+                            "name": "OM43_clade",
+                            "n": 147,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 147,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Nitrosomonadaceae",
+                        "n": 124,
+                        "c": [
+                          {
+                            "name": "Nitrosospira",
+                            "n": 121,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 121,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 3,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "environmental_samples",
+                    "n": 130,
+                    "c": []
+                  },
+                  {
+                    "name": "Neisseriales",
+                    "n": 31,
+                    "c": [
+                      {
+                        "name": "Neisseriaceae",
+                        "n": 31,
+                        "c": [
+                          {
+                            "name": "Snodgrassella",
+                            "n": 31,
+                            "c": [
+                              {
+                                "name": "unclassified_Snodgrassella",
+                                "n": 31,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Betaproteobacteria_incertae_sedis",
+                    "n": 45,
+                    "c": [
+                      {
+                        "name": "Candidatus_Nasuia",
+                        "n": 45,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Betaproteobacteria",
+                    "n": 6,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Acidithiobacillia",
+                "n": 7,
+                "c": [
+                  {
+                    "name": "Acidithiobacillales",
+                    "n": 7,
+                    "c": [
+                      {
+                        "name": "Thermithiobacillaceae",
+                        "n": 7,
+                        "c": [
+                          {
+                            "name": "Thermithiobacillus",
+                            "n": 7,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "FCB_group",
+            "n": 105638,
+            "c": [
+              {
+                "name": "Bacteroidota/Chlorobiota_group",
+                "n": 66560,
+                "c": [
+                  {
+                    "name": "Bacteroidota",
+                    "n": 66540,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 29555,
+                        "c": []
+                      },
+                      {
+                        "name": "Flavobacteriia",
+                        "n": 34960,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 25737,
+                            "c": []
+                          },
+                          {
+                            "name": "Flavobacteriales",
+                            "n": 9223,
+                            "c": [
+                              {
+                                "name": "Flavobacteriaceae",
+                                "n": 8152,
+                                "c": [
+                                  {
+                                    "name": "Flavobacterium",
+                                    "n": 3235,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 3198,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "unclassified_Flavobacterium",
+                                        "n": 37,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Croceibacter",
+                                    "n": 86,
+                                    "c": [
+                                      {
+                                        "name": "Croceibacter_atlanticus",
+                                        "n": 86,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Maribacter",
+                                    "n": 6,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Polaribacter",
+                                    "n": 784,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Polaribacter",
+                                        "n": 774,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 10,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Dokdonia",
+                                    "n": 62,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Dokdonia",
+                                        "n": 62,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Allomuricauda",
+                                    "n": 1,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 1,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Tenacibaculum",
+                                    "n": 1542,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Tenacibaculum",
+                                        "n": 407,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "Tenacibaculum_ovolyticum",
+                                        "n": 803,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 6,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Leeuwenhoekiella",
+                                    "n": 4,
+                                    "c": [
+                                      {
+                                        "name": "Leeuwenhoekiella_blandensis",
+                                        "n": 3,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "unclassified_Leeuwenhoekiella",
+                                        "n": 1,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Marixanthomonas",
+                                    "n": 364,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Salegentibacter",
+                                    "n": 322,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Salegentibacter",
+                                        "n": 179,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Lutibacter",
+                                    "n": 1220,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Lutibacter",
+                                        "n": 1172,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 48,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "unclassified_Flavobacteriaceae",
+                                    "n": 8,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Nonlabens",
+                                    "n": 80,
+                                    "c": [
+                                      {
+                                        "name": "Nonlabens_dokdonensis",
+                                        "n": 5,
+                                        "c": []
+                                      },
+                                      {
+                                        "name": "Nonlabens_marinus",
+                                        "n": 75,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Christiangramia",
+                                    "n": 4,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 164,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Winogradskyella",
+                                    "n": 130,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Winogradskyella",
+                                        "n": 24,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Cellulophaga",
+                                    "n": 34,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 34,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Bizionia",
+                                    "n": 31,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Formosa",
+                                    "n": 44,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Formosa",
+                                        "n": 44,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Lacinutrix",
+                                    "n": 3,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Marinirhabdus",
+                                    "n": 1,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Marinirhabdus",
+                                        "n": 1,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Pseudofulvibacter",
+                                    "n": 8,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Zunongwangia",
+                                    "n": 10,
+                                    "c": [
+                                      {
+                                        "name": "Zunongwangia_profunda",
+                                        "n": 10,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Olleya",
+                                    "n": 3,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Capnocytophaga",
+                                    "n": 6,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 520,
+                                "c": []
+                              },
+                              {
+                                "name": "Luteibaculaceae",
+                                "n": 2,
+                                "c": [
+                                  {
+                                    "name": "Luteibaculum",
+                                    "n": 2,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Cryomorphaceae",
+                                "n": 107,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 107,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Crocinitomicaceae",
+                                "n": 298,
+                                "c": [
+                                  {
+                                    "name": "Crocinitomix",
+                                    "n": 286,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 286,
+                                        "c": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Owenweeksiaceae",
+                                "n": 114,
+                                "c": [
+                                  {
+                                    "name": "Owenweeksia",
+                                    "n": 114,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 114,
+                                        "c": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Vicingaceae",
+                                "n": 3,
+                                "c": [
+                                  {
+                                    "name": "Vicingus",
+                                    "n": 3,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Saprospiria",
+                        "n": 208,
+                        "c": [
+                          {
+                            "name": "Saprospirales",
+                            "n": 208,
+                            "c": [
+                              {
+                                "name": "Saprospiraceae",
+                                "n": 208,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 208,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Chitinophagia",
+                        "n": 25,
+                        "c": [
+                          {
+                            "name": "Chitinophagales",
+                            "n": 25,
+                            "c": [
+                              {
+                                "name": "Chitinophagaceae",
+                                "n": 25,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 4,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "Sediminibacterium",
+                                    "n": 21,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "unclassified_Bacteroidota",
+                        "n": 1280,
+                        "c": []
+                      },
+                      {
+                        "name": "Cytophagia",
+                        "n": 485,
+                        "c": [
+                          {
+                            "name": "Cytophagales",
+                            "n": 485,
+                            "c": [
+                              {
+                                "name": "Cytophagaceae",
+                                "n": 473,
+                                "c": [
+                                  {
+                                    "name": "Cytophaga",
+                                    "n": 399,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 399,
+                                        "c": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 74,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Fulvivirgaceae",
+                                "n": 5,
+                                "c": [
+                                  {
+                                    "name": "Fulvivirga",
+                                    "n": 5,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Bernardetiaceae",
+                                "n": 7,
+                                "c": [
+                                  {
+                                    "name": "Garritya",
+                                    "n": 7,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sphingobacteriia",
+                        "n": 5,
+                        "c": [
+                          {
+                            "name": "Sphingobacteriales",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "Sphingobacteriaceae",
+                                "n": 5,
+                                "c": [
+                                  {
+                                    "name": "Sphingobacterium",
+                                    "n": 5,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 5,
+                                        "c": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Bacteroidia",
+                        "n": 22,
+                        "c": [
+                          {
+                            "name": "Marinilabiliales",
+                            "n": 13,
+                            "c": [
+                              {
+                                "name": "Prolixibacteraceae",
+                                "n": 13,
+                                "c": [
+                                  {
+                                    "name": "Mariniphaga",
+                                    "n": 13,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Bacteroidales",
+                            "n": 9,
+                            "c": [
+                              {
+                                "name": "Porphyromonadaceae",
+                                "n": 8,
+                                "c": [
+                                  {
+                                    "name": "Porphyromonas",
+                                    "n": 8,
+                                    "c": [
+                                      {
+                                        "name": "unclassified_Porphyromonas",
+                                        "n": 8,
+                                        "c": [
+                                          {
+                                            "name": "Porphyromonas_sp._oral_taxon_278",
+                                            "n": 8,
+                                            "c": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Rikenellaceae",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "Rikenella",
+                                    "n": 1,
+                                    "c": [
+                                      {
+                                        "name": "Rikenella_microfusus",
+                                        "n": 1,
+                                        "c": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "environmental_samples",
+                    "n": 1,
+                    "c": []
+                  },
+                  {
+                    "name": "Chlorobiota",
+                    "n": 17,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 17,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Rhodothermota",
+                    "n": 2,
+                    "c": [
+                      {
+                        "name": "Rhodothermia",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Rhodothermales",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "Rubricoccaceae",
+                                "n": 2,
+                                "c": [
+                                  {
+                                    "name": "Rubrivirga",
+                                    "n": 2,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Fidelibacterota",
+                "n": 35664,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 35664,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Gemmatimonadota",
+                "n": 3049,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 2378,
+                    "c": []
+                  },
+                  {
+                    "name": "unclassified_Gemmatimonadota",
+                    "n": 447,
+                    "c": []
+                  },
+                  {
+                    "name": "Gemmatimonadia",
+                    "n": 224,
+                    "c": [
+                      {
+                        "name": "Gemmatimonadales",
+                        "n": 224,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 224,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Latescibacterota",
+                "n": 173,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 173,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Cloacimonadota",
+                "n": 103,
+                "c": [
+                  {
+                    "name": "unclassified_Candidatus_Cloacimonadota",
+                    "n": 103,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Hydrogenedentota",
+                "n": 84,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 84,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Fibrobacterota",
+                "n": 5,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 5,
+                    "c": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "PVC_group",
+            "n": 26106,
+            "c": [
+              {
+                "name": "Planctomycetota",
+                "n": 16892,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 10975,
+                    "c": []
+                  },
+                  {
+                    "name": "Planctomycetia",
+                    "n": 5565,
+                    "c": [
+                      {
+                        "name": "Planctomycetales",
+                        "n": 5555,
+                        "c": [
+                          {
+                            "name": "Planctomycetaceae",
+                            "n": 4341,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 3264,
+                                "c": []
+                              },
+                              {
+                                "name": "Planctomyces",
+                                "n": 1032,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 1032,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "unclassified_Planctomycetaceae",
+                                "n": 45,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 1214,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Pirellulales",
+                        "n": 10,
+                        "c": [
+                          {
+                            "name": "Pirellulaceae",
+                            "n": 10,
+                            "c": [
+                              {
+                                "name": "Pirellula",
+                                "n": 10,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 10,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Planctomycetota",
+                    "n": 90,
+                    "c": []
+                  },
+                  {
+                    "name": "Phycisphaerae",
+                    "n": 262,
+                    "c": [
+                      {
+                        "name": "Phycisphaerales",
+                        "n": 262,
+                        "c": [
+                          {
+                            "name": "Phycisphaeraceae",
+                            "n": 262,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 262,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Verrucomicrobiota",
+                "n": 6994,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 3718,
+                    "c": []
+                  },
+                  {
+                    "name": "unclassified_Verrucomicrobiota",
+                    "n": 554,
+                    "c": []
+                  },
+                  {
+                    "name": "Verrucomicrobiia",
+                    "n": 2673,
+                    "c": [
+                      {
+                        "name": "Verrucomicrobiales",
+                        "n": 2673,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 2471,
+                            "c": []
+                          },
+                          {
+                            "name": "Verrucomicrobiaceae",
+                            "n": 202,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 194,
+                                "c": []
+                              },
+                              {
+                                "name": "Roseibacillus",
+                                "n": 8,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Opitutia",
+                    "n": 32,
+                    "c": [
+                      {
+                        "name": "Puniceicoccales",
+                        "n": 32,
+                        "c": [
+                          {
+                            "name": "Puniceicoccaceae",
+                            "n": 16,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 16,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Cerasicoccaceae",
+                            "n": 7,
+                            "c": [
+                              {
+                                "name": "Cerasicoccus",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "Ruficoccus",
+                                "n": 6,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Pelagicoccaceae",
+                            "n": 9,
+                            "c": [
+                              {
+                                "name": "Pelagicoccus",
+                                "n": 9,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 9,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Verrucomicrobiota_incertae_sedis",
+                    "n": 17,
+                    "c": [
+                      {
+                        "name": "Lentimonas",
+                        "n": 17,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Lentisphaerota",
+                "n": 2150,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 1628,
+                    "c": []
+                  },
+                  {
+                    "name": "Lentisphaeria",
+                    "n": 522,
+                    "c": [
+                      {
+                        "name": "Lentisphaerales",
+                        "n": 522,
+                        "c": [
+                          {
+                            "name": "Lentisphaeraceae",
+                            "n": 522,
+                            "c": [
+                              {
+                                "name": "Lentisphaera",
+                                "n": 522,
+                                "c": [
+                                  {
+                                    "name": "Lentisphaera_araneosa",
+                                    "n": 513,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Chlamydiota",
+                "n": 62,
+                "c": [
+                  {
+                    "name": "Chlamydiia",
+                    "n": 57,
+                    "c": [
+                      {
+                        "name": "Parachlamydiales",
+                        "n": 30,
+                        "c": [
+                          {
+                            "name": "Candidatus_Rhabdochlamydiaceae",
+                            "n": 11,
+                            "c": [
+                              {
+                                "name": "unclassified_Rhabdochlamydiaceae",
+                                "n": 11,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Parachlamydiaceae",
+                            "n": 16,
+                            "c": [
+                              {
+                                "name": "Candidatus_Metachlamydia",
+                                "n": 2,
+                                "c": []
+                              },
+                              {
+                                "name": "Neochlamydia",
+                                "n": 14,
+                                "c": [
+                                  {
+                                    "name": "unclassified_Neochlamydia",
+                                    "n": 14,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Criblamydiaceae",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "unclassified_Criblamydiaceae",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Simkaniaceae",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "Candidatus_Syngnamydia",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Chlamydiales",
+                        "n": 26,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 23,
+                            "c": []
+                          },
+                          {
+                            "name": "Chlamydiaceae",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "Chlamydia/Chlamydophila_group",
+                                "n": 3,
+                                "c": [
+                                  {
+                                    "name": "Chlamydia",
+                                    "n": 3,
+                                    "c": [
+                                      {
+                                        "name": "environmental_samples",
+                                        "n": 3,
+                                        "c": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 1,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Chlamydiota",
+                    "n": 5,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Omnitrophota",
+                "n": 8,
+                "c": [
+                  {
+                    "name": "unclassified_Candidatus_Omnitrophota",
+                    "n": 8,
+                    "c": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Deferribacterota",
+            "n": 2838,
+            "c": [
+              {
+                "name": "Deferribacteres",
+                "n": 2838,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 2838,
+                    "c": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thermodesulfobacteriota",
+            "n": 1387,
+            "c": [
+              {
+                "name": "Desulfovibrionia",
+                "n": 606,
+                "c": [
+                  {
+                    "name": "Desulfovibrionales",
+                    "n": 606,
+                    "c": [
+                      {
+                        "name": "Desulfohalobiaceae",
+                        "n": 427,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 427,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Desulfovibrionaceae",
+                        "n": 148,
+                        "c": [
+                          {
+                            "name": "Desulfocurvus",
+                            "n": 148,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 148,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Desulfoplanaceae",
+                        "n": 31,
+                        "c": [
+                          {
+                            "name": "Desulfoplanes",
+                            "n": 31,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Syntrophobacteria",
+                "n": 176,
+                "c": [
+                  {
+                    "name": "Syntrophobacterales",
+                    "n": 176,
+                    "c": [
+                      {
+                        "name": "unclassified_Syntrophobacterales",
+                        "n": 99,
+                        "c": []
+                      },
+                      {
+                        "name": "Syntrophobacteraceae",
+                        "n": 28,
+                        "c": [
+                          {
+                            "name": "Desulfoglaeba",
+                            "n": 8,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 8,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 20,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 49,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Syntrophia",
+                "n": 99,
+                "c": [
+                  {
+                    "name": "Syntrophales",
+                    "n": 99,
+                    "c": [
+                      {
+                        "name": "Syntrophaceae",
+                        "n": 94,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 79,
+                            "c": []
+                          },
+                          {
+                            "name": "Syntrophus",
+                            "n": 15,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 15,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Smithellaceae",
+                        "n": 5,
+                        "c": [
+                          {
+                            "name": "Smithella",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 5,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Desulfobacteria",
+                "n": 150,
+                "c": [
+                  {
+                    "name": "Desulfobacterales",
+                    "n": 150,
+                    "c": [
+                      {
+                        "name": "Desulfobacteraceae",
+                        "n": 144,
+                        "c": [
+                          {
+                            "name": "unclassified_Desulfobacteraceae",
+                            "n": 62,
+                            "c": []
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 81,
+                            "c": []
+                          },
+                          {
+                            "name": "Desulfofrigus",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 5,
+                        "c": []
+                      },
+                      {
+                        "name": "Desulfococcaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Desulfonema",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Desulfonema_magnum",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Desulfuromonadia",
+                "n": 239,
+                "c": [
+                  {
+                    "name": "Desulfuromonadales",
+                    "n": 238,
+                    "c": [
+                      {
+                        "name": "Geopsychrobacteraceae",
+                        "n": 66,
+                        "c": [
+                          {
+                            "name": "Desulfuromusa",
+                            "n": 66,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Syntrophotaleaceae",
+                        "n": 31,
+                        "c": [
+                          {
+                            "name": "Syntrophotalea",
+                            "n": 31,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Desulfuromonadaceae",
+                        "n": 100,
+                        "c": [
+                          {
+                            "name": "Pelobacter",
+                            "n": 27,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 27,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Desulfuromonas",
+                            "n": 41,
+                            "c": [
+                              {
+                                "name": "Desulfuromonas_acetoxidans",
+                                "n": 21,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 16,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 32,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Geoalkalibacteraceae",
+                        "n": 25,
+                        "c": [
+                          {
+                            "name": "Geoalkalibacter",
+                            "n": 25,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 16,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Geobacterales",
+                    "n": 1,
+                    "c": [
+                      {
+                        "name": "Geobacteraceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Geobacter",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Desulfomonilia",
+                "n": 76,
+                "c": [
+                  {
+                    "name": "Desulfomonilales",
+                    "n": 76,
+                    "c": [
+                      {
+                        "name": "Desulfomonilaceae",
+                        "n": 76,
+                        "c": [
+                          {
+                            "name": "Desulfomonile",
+                            "n": 76,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 63,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Desulfobulbia",
+                "n": 41,
+                "c": [
+                  {
+                    "name": "Desulfobulbales",
+                    "n": 41,
+                    "c": [
+                      {
+                        "name": "Desulfocapsaceae",
+                        "n": 24,
+                        "c": [
+                          {
+                            "name": "Desulforhopalus",
+                            "n": 24,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 24,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Desulfobulbaceae",
+                        "n": 17,
+                        "c": [
+                          {
+                            "name": "unclassified_Desulfobulbaceae",
+                            "n": 12,
+                            "c": []
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 5,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Myxococcota",
+            "n": 1444,
+            "c": [
+              {
+                "name": "Myxococcia",
+                "n": 1341,
+                "c": [
+                  {
+                    "name": "Myxococcales",
+                    "n": 1341,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 1186,
+                        "c": []
+                      },
+                      {
+                        "name": "Nannocystineae",
+                        "n": 86,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 86,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Cystobacterineae",
+                        "n": 54,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 53,
+                            "c": []
+                          },
+                          {
+                            "name": "Archangiaceae",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Stigmatella",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 1,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sorangiineae",
+                        "n": 14,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 14,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "unclassified_Myxococcales",
+                        "n": 1,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Polyangia",
+                "n": 103,
+                "c": [
+                  {
+                    "name": "Haliangiales",
+                    "n": 69,
+                    "c": [
+                      {
+                        "name": "Kofleriaceae",
+                        "n": 69,
+                        "c": [
+                          {
+                            "name": "Haliangium",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Kofleria",
+                            "n": 63,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 63,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 3,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Polyangiales",
+                    "n": 15,
+                    "c": [
+                      {
+                        "name": "Sandaracinaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Sandaracinus",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Polyangiaceae",
+                        "n": 14,
+                        "c": [
+                          {
+                            "name": "Polyangium",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "unclassified_Polyangium",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 11,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Nannocystales",
+                    "n": 19,
+                    "c": [
+                      {
+                        "name": "Nannocystaceae",
+                        "n": 19,
+                        "c": [
+                          {
+                            "name": "Nannocystis",
+                            "n": 19,
+                            "c": [
+                              {
+                                "name": "unclassified_Nannocystis",
+                                "n": 19,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Nitrospinota/Tectimicrobiota_group",
+            "n": 1271,
+            "c": [
+              {
+                "name": "Nitrospinota",
+                "n": 1181,
+                "c": [
+                  {
+                    "name": "Nitrospinia",
+                    "n": 1181,
+                    "c": [
+                      {
+                        "name": "Nitrospinales",
+                        "n": 1181,
+                        "c": [
+                          {
+                            "name": "Nitrospinaceae",
+                            "n": 1181,
+                            "c": [
+                              {
+                                "name": "Nitrospina",
+                                "n": 1066,
+                                "c": [
+                                  {
+                                    "name": "unclassified_Nitrospina",
+                                    "n": 671,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 395,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 114,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Tectimicrobiota",
+                "n": 90,
+                "c": [
+                  {
+                    "name": "unclassified_Candidatus_Tectomicrobia",
+                    "n": 90,
+                    "c": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Acidobacteriota",
+            "n": 1804,
+            "c": [
+              {
+                "name": "Terriglobia",
+                "n": 1804,
+                "c": [
+                  {
+                    "name": "Terriglobales",
+                    "n": 1574,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 532,
+                        "c": []
+                      },
+                      {
+                        "name": "Acidobacteriaceae",
+                        "n": 1042,
+                        "c": [
+                          {
+                            "name": "Acidobacterium",
+                            "n": 1011,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1011,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 31,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Bryobacterales",
+                    "n": 230,
+                    "c": [
+                      {
+                        "name": "Solibacteraceae",
+                        "n": 230,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 230,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Campylobacterota",
+            "n": 162,
+            "c": [
+              {
+                "name": "Epsilonproteobacteria",
+                "n": 162,
+                "c": [
+                  {
+                    "name": "Campylobacterales",
+                    "n": 162,
+                    "c": [
+                      {
+                        "name": "Arcobacteraceae",
+                        "n": 107,
+                        "c": [
+                          {
+                            "name": "Arcobacter",
+                            "n": 107,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 107,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sulfurovaceae",
+                        "n": 4,
+                        "c": [
+                          {
+                            "name": "Sulfurovum",
+                            "n": 4,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 4,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Helicobacteraceae",
+                        "n": 42,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 42,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sulfurimonadaceae",
+                        "n": 9,
+                        "c": [
+                          {
+                            "name": "Sulfurimonas",
+                            "n": 9,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 9,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Nitrospirota",
+            "n": 160,
+            "c": [
+              {
+                "name": "Nitrospiria",
+                "n": 160,
+                "c": [
+                  {
+                    "name": "Nitrospirales",
+                    "n": 160,
+                    "c": [
+                      {
+                        "name": "Nitrospiraceae",
+                        "n": 159,
+                        "c": [
+                          {
+                            "name": "Nitrospira",
+                            "n": 109,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 109,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "environmental_samples",
+                            "n": 50,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 1,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Bdellovibrionota",
+            "n": 262,
+            "c": [
+              {
+                "name": "Oligoflexia",
+                "n": 39,
+                "c": [
+                  {
+                    "name": "Oligoflexales",
+                    "n": 39,
+                    "c": [
+                      {
+                        "name": "Pseudobacteriovoracaceae",
+                        "n": 39,
+                        "c": [
+                          {
+                            "name": "Pseudobacteriovorax",
+                            "n": 39,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Bacteriovoracia",
+                "n": 221,
+                "c": [
+                  {
+                    "name": "Bacteriovoracales",
+                    "n": 221,
+                    "c": [
+                      {
+                        "name": "Bacteriovoracaceae",
+                        "n": 217,
+                        "c": [
+                          {
+                            "name": "Bacteriovorax",
+                            "n": 161,
+                            "c": [
+                              {
+                                "name": "unclassified_Bacteriovorax",
+                                "n": 154,
+                                "c": []
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 7,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Peredibacter",
+                            "n": 56,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 56,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Halobacteriovoraceae",
+                        "n": 4,
+                        "c": [
+                          {
+                            "name": "Halobacteriovorax",
+                            "n": 4,
+                            "c": [
+                              {
+                                "name": "unclassified_Halobacteriovorax",
+                                "n": 4,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Bdellovibrionia",
+                "n": 2,
+                "c": [
+                  {
+                    "name": "Bdellovibrionales",
+                    "n": 2,
+                    "c": [
+                      {
+                        "name": "Pseudobdellovibrionaceae",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Micavibrio",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Elusimicrobiota",
+            "n": 12,
+            "c": [
+              {
+                "name": "Elusimicrobia",
+                "n": 12,
+                "c": [
+                  {
+                    "name": "Elusimicrobiales",
+                    "n": 12,
+                    "c": [
+                      {
+                        "name": "Elusimicrobiaceae",
+                        "n": 12,
+                        "c": [
+                          {
+                            "name": "Elusimicrobium",
+                            "n": 12,
+                            "c": [
+                              {
+                                "name": "Elusimicrobium_minutum",
+                                "n": 12,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Spirochaetota",
+            "n": 58,
+            "c": [
+              {
+                "name": "Spirochaetia",
+                "n": 58,
+                "c": [
+                  {
+                    "name": "Spirochaetales",
+                    "n": 58,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 57,
+                        "c": []
+                      },
+                      {
+                        "name": "Spirochaetaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Spirochaeta",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "unclassified_Spirochaeta",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 1,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thermomicrobiota",
+            "n": 3,
+            "c": [
+              {
+                "name": "Thermomicrobia",
+                "n": 3,
+                "c": [
+                  {
+                    "name": "Thermomicrobiales",
+                    "n": 3,
+                    "c": [
+                      {
+                        "name": "Thermomicrobiaceae",
+                        "n": 3,
+                        "c": [
+                          {
+                            "name": "Thermomicrobium",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "delta/epsilon_subdivisions",
+        "n": 5968,
+        "c": [
+          {
+            "name": "Deltaproteobacteria",
+            "n": 5968,
+            "c": [
+              {
+                "name": "Deltaproteobacteria_incertae_sedis",
+                "n": 5968,
+                "c": [
+                  {
+                    "name": "SAR324_cluster",
+                    "n": 5968,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 5967,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bacillati",
+        "n": 13604,
+        "c": [
+          {
+            "name": "Actinomycetota",
+            "n": 5025,
+            "c": [
+              {
+                "name": "Actinomycetes",
+                "n": 4604,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 4533,
+                    "c": []
+                  },
+                  {
+                    "name": "Candidatus_Actinomarinidae",
+                    "n": 2,
+                    "c": [
+                      {
+                        "name": "Candidatus_Actinomarinales",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Candidatus_Actinomarineae",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "Candidatus_Actinomarinaceae",
+                                "n": 2,
+                                "c": [
+                                  {
+                                    "name": "Candidatus_Actinomarina",
+                                    "n": 2,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Actinomycetes",
+                    "n": 5,
+                    "c": [
+                      {
+                        "name": "marine_Actinobacteria_clade",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Mycobacteriales",
+                    "n": 19,
+                    "c": [
+                      {
+                        "name": "Nocardiaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Rhodococcus",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "unclassified_Rhodococcus_(in:_high_G+C_Gram-positive_bacteria)",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Corynebacteriaceae",
+                        "n": 10,
+                        "c": [
+                          {
+                            "name": "Corynebacterium",
+                            "n": 10,
+                            "c": [
+                              {
+                                "name": "Corynebacterium_pseudogenitalium",
+                                "n": 2,
+                                "c": []
+                              },
+                              {
+                                "name": "Corynebacterium_accolens",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "unclassified_Corynebacterium",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Mycobacteriaceae",
+                        "n": 4,
+                        "c": [
+                          {
+                            "name": "Mycobacterium",
+                            "n": 4,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 4,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Dietziaceae",
+                        "n": 4,
+                        "c": [
+                          {
+                            "name": "Dietzia",
+                            "n": 4,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Actinomycetales",
+                    "n": 44,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 44,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Micrococcales",
+                    "n": 1,
+                    "c": [
+                      {
+                        "name": "Micrococcaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Micrococcus",
+                            "n": 1,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Acidimicrobiia",
+                "n": 414,
+                "c": [
+                  {
+                    "name": "Acidimicrobiales",
+                    "n": 401,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 401,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "environmental_samples",
+                    "n": 13,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Nitriliruptoria",
+                "n": 7,
+                "c": [
+                  {
+                    "name": "Euzebyales",
+                    "n": 7,
+                    "c": [
+                      {
+                        "name": "Euzebyaceae",
+                        "n": 7,
+                        "c": [
+                          {
+                            "name": "Euzebya",
+                            "n": 7,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chloroflexota",
+            "n": 7779,
+            "c": [
+              {
+                "name": "Dehalococcoidia",
+                "n": 1947,
+                "c": [
+                  {
+                    "name": "SAR202_cluster",
+                    "n": 1947,
+                    "c": [
+                      {
+                        "name": "unclassified_SAR202_cluster",
+                        "n": 1432,
+                        "c": []
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 515,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Chloroflexia",
+                "n": 5590,
+                "c": [
+                  {
+                    "name": "Chloroflexales",
+                    "n": 5590,
+                    "c": [
+                      {
+                        "name": "Chloroflexineae",
+                        "n": 5144,
+                        "c": [
+                          {
+                            "name": "Chloroflexaceae",
+                            "n": 5144,
+                            "c": [
+                              {
+                                "name": "Chloroflexus",
+                                "n": 5080,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 5080,
+                                    "c": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "environmental_samples",
+                                "n": 64,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "environmental_samples",
+                        "n": 446,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Anaerolineae",
+                "n": 239,
+                "c": [
+                  {
+                    "name": "Anaerolineales",
+                    "n": 239,
+                    "c": [
+                      {
+                        "name": "Anaerolineaceae",
+                        "n": 239,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 239,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Caldilineae",
+                "n": 3,
+                "c": [
+                  {
+                    "name": "Caldilineales",
+                    "n": 3,
+                    "c": [
+                      {
+                        "name": "Caldilineaceae",
+                        "n": 3,
+                        "c": [
+                          {
+                            "name": "Caldilinea",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mycoplasmatota",
+            "n": 96,
+            "c": [
+              {
+                "name": "Mollicutes",
+                "n": 96,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 1,
+                    "c": []
+                  },
+                  {
+                    "name": "Mycoplasmatales",
+                    "n": 72,
+                    "c": [
+                      {
+                        "name": "Mycoplasmataceae",
+                        "n": 72,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 3,
+                            "c": []
+                          },
+                          {
+                            "name": "Mycoplasma",
+                            "n": 69,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 69,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Entomoplasmatales",
+                    "n": 23,
+                    "c": [
+                      {
+                        "name": "Entomoplasmataceae",
+                        "n": 23,
+                        "c": [
+                          {
+                            "name": "Mesoplasma",
+                            "n": 23,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cyanobacteriota/Melainabacteria_group",
+            "n": 159,
+            "c": [
+              {
+                "name": "Cyanobacteriota",
+                "n": 159,
+                "c": [
+                  {
+                    "name": "Cyanophyceae",
+                    "n": 19,
+                    "c": [
+                      {
+                        "name": "Synechococcales",
+                        "n": 19,
+                        "c": [
+                          {
+                            "name": "Prochlorococcaceae",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "Prochlorococcus",
+                                "n": 3,
+                                "c": [
+                                  {
+                                    "name": "Prochlorococcus_marinus",
+                                    "n": 3,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Synechococcaceae",
+                            "n": 16,
+                            "c": [
+                              {
+                                "name": "Synechococcus",
+                                "n": 16,
+                                "c": [
+                                  {
+                                    "name": "unclassified_Synechococcus",
+                                    "n": 6,
+                                    "c": []
+                                  },
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 10,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "environmental_samples",
+                    "n": 140,
+                    "c": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Bacillota",
+            "n": 545,
+            "c": [
+              {
+                "name": "Bacilli",
+                "n": 202,
+                "c": [
+                  {
+                    "name": "Bacillales",
+                    "n": 152,
+                    "c": [
+                      {
+                        "name": "Staphylococcaceae",
+                        "n": 82,
+                        "c": [
+                          {
+                            "name": "Staphylococcus",
+                            "n": 82,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Paenibacillaceae",
+                        "n": 60,
+                        "c": [
+                          {
+                            "name": "Saccharibacillus",
+                            "n": 49,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 49,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Brevibacillus",
+                            "n": 11,
+                            "c": [
+                              {
+                                "name": "unclassified_Brevibacillus",
+                                "n": 11,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Gemellaceae",
+                        "n": 8,
+                        "c": [
+                          {
+                            "name": "Gemella",
+                            "n": 8,
+                            "c": [
+                              {
+                                "name": "Gemella_haemolysans",
+                                "n": 8,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Anoxybacillaceae",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Saccharococcus",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lactobacillales",
+                    "n": 50,
+                    "c": [
+                      {
+                        "name": "Streptococcaceae",
+                        "n": 41,
+                        "c": [
+                          {
+                            "name": "Streptococcus",
+                            "n": 41,
+                            "c": [
+                              {
+                                "name": "Streptococcus_mitis_group",
+                                "n": 2,
+                                "c": []
+                              },
+                              {
+                                "name": "Streptococcus_oralis",
+                                "n": 32,
+                                "c": []
+                              },
+                              {
+                                "name": "Streptococcus_sanguinis",
+                                "n": 4,
+                                "c": []
+                              },
+                              {
+                                "name": "Streptococcus_anginosus_group",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Carnobacteriaceae",
+                        "n": 5,
+                        "c": [
+                          {
+                            "name": "Granulicatella",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "Granulicatella_adiacens",
+                                "n": 5,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Enterococcaceae",
+                        "n": 3,
+                        "c": [
+                          {
+                            "name": "Vagococcus",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 3,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Lactobacillaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Lactobacillus",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Lactobacillus_acidophilus",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Clostridia",
+                "n": 318,
+                "c": [
+                  {
+                    "name": "Neomorellales",
+                    "n": 259,
+                    "c": [
+                      {
+                        "name": "Neomoorellaceae",
+                        "n": 259,
+                        "c": [
+                          {
+                            "name": "Neomoorella",
+                            "n": 259,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Eubacteriales",
+                    "n": 34,
+                    "c": [
+                      {
+                        "name": "Peptococcaceae",
+                        "n": 27,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 27,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Eubacteriales_incertae_sedis",
+                        "n": 7,
+                        "c": [
+                          {
+                            "name": "Clostridiales_Family_XVII._Incertae_Sedis",
+                            "n": 7,
+                            "c": [
+                              {
+                                "name": "Thermaerobacter",
+                                "n": 7,
+                                "c": [
+                                  {
+                                    "name": "Thermaerobacter_composti",
+                                    "n": 7,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Thermoanaerobacterales",
+                    "n": 13,
+                    "c": [
+                      {
+                        "name": "Thermoanaerobacteraceae",
+                        "n": 13,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 13,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lachnospirales",
+                    "n": 12,
+                    "c": [
+                      {
+                        "name": "Lachnospiraceae",
+                        "n": 12,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 12,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Tissierellia",
+                "n": 15,
+                "c": [
+                  {
+                    "name": "Tissierellales",
+                    "n": 15,
+                    "c": [
+                      {
+                        "name": "Peptoniphilaceae",
+                        "n": 15,
+                        "c": [
+                          {
+                            "name": "Anaerococcus",
+                            "n": 3,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1,
+                                "c": []
+                              },
+                              {
+                                "name": "Anaerococcus_octavius",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Finegoldia",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "Finegoldia_magna",
+                                "n": 5,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Peptoniphilus",
+                            "n": 2,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Negativicutes",
+                "n": 10,
+                "c": [
+                  {
+                    "name": "Veillonellales",
+                    "n": 10,
+                    "c": [
+                      {
+                        "name": "Veillonellaceae",
+                        "n": 10,
+                        "c": [
+                          {
+                            "name": "Veillonella",
+                            "n": 10,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 7,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bacteria_incertae_sedis",
+        "n": 2113,
+        "c": [
+          {
+            "name": "Bacteria_candidate_phyla",
+            "n": 2113,
+            "c": [
+              {
+                "name": "Patescibacteria_group",
+                "n": 1782,
+                "c": [
+                  {
+                    "name": "Microgenomates_group",
+                    "n": 1114,
+                    "c": [
+                      {
+                        "name": "Candidatus_Amesiibacteriota",
+                        "n": 866,
+                        "c": []
+                      },
+                      {
+                        "name": "unclassified_Microgenomates_group",
+                        "n": 230,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 230,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Candidatus_Levyibacteriota",
+                        "n": 18,
+                        "c": [
+                          {
+                            "name": "unclassified_Candidatus_Levyibacteriota",
+                            "n": 18,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Parcubacteria_group",
+                    "n": 615,
+                    "c": [
+                      {
+                        "name": "Candidatus_Nomuraibacteriota",
+                        "n": 327,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Uhriibacteriota",
+                        "n": 5,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Azamiibacteriota",
+                        "n": 69,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Joergenseniibacteriota",
+                        "n": 24,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Komeiliibacteriota",
+                        "n": 99,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Campbelliibacteriota",
+                        "n": 15,
+                        "c": []
+                      },
+                      {
+                        "name": "Candidatus_Yanofskyibacteriota",
+                        "n": 6,
+                        "c": []
+                      },
+                      {
+                        "name": "unclassified_Parcubacteria_group",
+                        "n": 64,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 7,
+                            "c": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Candidatus_Yonathiibacteriota",
+                        "n": 6,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Candidatus_Altimarinota",
+                    "n": 53,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 53,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "candidate_division_SBR1093",
+                "n": 229,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 229,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Peregrinibacteriota",
+                "n": 3,
+                "c": [
+                  {
+                    "name": "Candidatus_Peribacteria",
+                    "n": 3,
+                    "c": [
+                      {
+                        "name": "unclassified_Candidatus_Peribacteria",
+                        "n": 3,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Methylomirabilota",
+                "n": 52,
+                "c": [
+                  {
+                    "name": "unclassified_Candidatus_Methylomirabilota",
+                    "n": 52,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Candidatus_Babelota",
+                "n": 47,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 16,
+                    "c": []
+                  },
+                  {
+                    "name": "Candidatus_Babeliae",
+                    "n": 21,
+                    "c": [
+                      {
+                        "name": "Candidatus_Babeliales",
+                        "n": 21,
+                        "c": [
+                          {
+                            "name": "Candidatus_Chromulinivoraceae",
+                            "n": 21,
+                            "c": [
+                              {
+                                "name": "Candidatus_Chromulinivorax",
+                                "n": 21,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "unclassified_Candidatus_Babelota",
+                    "n": 3,
+                    "c": []
+                  },
+                  {
+                    "name": "Vermiphilus",
+                    "n": 7,
+                    "c": [
+                      {
+                        "name": "Vermiphilus_pyriformis",
+                        "n": 7,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thermotogati",
+        "n": 67,
+        "c": [
+          {
+            "name": "Deinococcota",
+            "n": 67,
+            "c": [
+              {
+                "name": "Deinococci",
+                "n": 67,
+                "c": [
+                  {
+                    "name": "Trueperales",
+                    "n": 67,
+                    "c": [
+                      {
+                        "name": "Trueperaceae",
+                        "n": 67,
+                        "c": [
+                          {
+                            "name": "Truepera",
+                            "n": 67,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 67,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Fusobacteriati",
+        "n": 5,
+        "c": [
+          {
+            "name": "Fusobacteriota",
+            "n": 5,
+            "c": [
+              {
+                "name": "Fusobacteriia",
+                "n": 5,
+                "c": [
+                  {
+                    "name": "Fusobacteriales",
+                    "n": 5,
+                    "c": [
+                      {
+                        "name": "Fusobacteriaceae",
+                        "n": 5,
+                        "c": [
+                          {
+                            "name": "Fusobacterium",
+                            "n": 5,
+                            "c": [
+                              {
+                                "name": "Fusobacterium_periodonticum",
+                                "n": 5,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Archaea",
+    "n": 27179,
+    "c": [
+      {
+        "name": "Thermoproteati",
+        "n": 25800,
+        "c": [
+          {
+            "name": "Nitrososphaerota",
+            "n": 25800,
+            "c": [
+              {
+                "name": "Nitrososphaeria",
+                "n": 9003,
+                "c": [
+                  {
+                    "name": "Nitrosopumilales",
+                    "n": 9003,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 8742,
+                        "c": []
+                      },
+                      {
+                        "name": "Nitrosopumilaceae",
+                        "n": 261,
+                        "c": [
+                          {
+                            "name": "Nitrosopumilus",
+                            "n": 261,
+                            "c": [
+                              {
+                                "name": "unclassified_Nitrosopumilus",
+                                "n": 261,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nitrososphaerota_incertae_sedis",
+                "n": 16797,
+                "c": [
+                  {
+                    "name": "Marine_Group_I",
+                    "n": 16792,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 16792,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Candidatus_Nitrosopelagicus",
+                    "n": 5,
+                    "c": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Methanobacteriati",
+        "n": 1379,
+        "c": [
+          {
+            "name": "Methanobacteriota",
+            "n": 1049,
+            "c": [
+              {
+                "name": "Methanobacteriota_incertae_sedis",
+                "n": 951,
+                "c": [
+                  {
+                    "name": "candidate_division_Sediment_Archaea-1",
+                    "n": 951,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 951,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Stenosarchaea_group",
+                "n": 98,
+                "c": [
+                  {
+                    "name": "Methanomicrobia",
+                    "n": 98,
+                    "c": [
+                      {
+                        "name": "Methanomicrobiales",
+                        "n": 87,
+                        "c": [
+                          {
+                            "name": "Methanomicrobiaceae",
+                            "n": 87,
+                            "c": [
+                              {
+                                "name": "Methanoculleus",
+                                "n": 87,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 87,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Methanosarcinales",
+                        "n": 8,
+                        "c": [
+                          {
+                            "name": "Methanosarcinaceae",
+                            "n": 8,
+                            "c": [
+                              {
+                                "name": "Methanococcoides",
+                                "n": 8,
+                                "c": [
+                                  {
+                                    "name": "Methanococcoides_methylutens",
+                                    "n": 8,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Methanotrichales",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Methanotrichaceae",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Methanothrix",
+                                "n": 1,
+                                "c": [
+                                  {
+                                    "name": "environmental_samples",
+                                    "n": 1,
+                                    "c": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Candidatus_Methanophagales",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "environmental_samples",
+                            "n": 2,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thermoplasmatota",
+            "n": 330,
+            "c": [
+              {
+                "name": "Candidatus_Poseidoniia",
+                "n": 246,
+                "c": [
+                  {
+                    "name": "Candidatus_Poseidoniales",
+                    "n": 246,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 246,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Thermoplasmata",
+                "n": 64,
+                "c": [
+                  {
+                    "name": "Thermoplasmatales",
+                    "n": 63,
+                    "c": [
+                      {
+                        "name": "Thermoplasmatales_incertae_sedis",
+                        "n": 63,
+                        "c": [
+                          {
+                            "name": "Thermogymnomonas",
+                            "n": 63,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 63,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Candidatus_Thermoprofundales",
+                    "n": 1,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 1,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

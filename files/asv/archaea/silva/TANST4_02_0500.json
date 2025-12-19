@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Archaea",
+    "n": 1090956,
+    "c": [
+      {
+        "name": "Thermoproteati",
+        "n": 786781,
+        "c": [
+          {
+            "name": "Nitrososphaerota",
+            "n": 786781,
+            "c": [
+              {
+                "name": "Nitrososphaerota_incertae_sedis",
+                "n": 584992,
+                "c": [
+                  {
+                    "name": "Marine_Group_I",
+                    "n": 584991,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 584991,
+                        "c": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Candidatus_Nitrosopelagicus",
+                    "n": 1,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Nitrososphaeria",
+                "n": 201789,
+                "c": [
+                  {
+                    "name": "Nitrosopumilales",
+                    "n": 200533,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 199325,
+                        "c": []
+                      },
+                      {
+                        "name": "Nitrosopumilaceae",
+                        "n": 1208,
+                        "c": [
+                          {
+                            "name": "Nitrosopumilus",
+                            "n": 1145,
+                            "c": [
+                              {
+                                "name": "unclassified_Nitrosopumilus",
+                                "n": 1133,
+                                "c": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Candidatus_Nitrosomarinus",
+                            "n": 63,
+                            "c": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Nitrososphaerales",
+                    "n": 1254,
+                    "c": [
+                      {
+                        "name": "Nitrososphaeraceae",
+                        "n": 1254,
+                        "c": [
+                          {
+                            "name": "Nitrososphaera",
+                            "n": 1254,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 1254,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Candidatus_Nitrosocaldales",
+                    "n": 2,
+                    "c": [
+                      {
+                        "name": "Candidatus_Nitrosocaldaceae",
+                        "n": 2,
+                        "c": [
+                          {
+                            "name": "Candidatus_Nitrosocaldus",
+                            "n": 2,
+                            "c": [
+                              {
+                                "name": "environmental_samples",
+                                "n": 2,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Methanobacteriati",
+        "n": 304175,
+        "c": [
+          {
+            "name": "Thermoplasmatota",
+            "n": 303346,
+            "c": [
+              {
+                "name": "Candidatus_Poseidoniia",
+                "n": 202543,
+                "c": [
+                  {
+                    "name": "Candidatus_Poseidoniales",
+                    "n": 202543,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 202524,
+                        "c": []
+                      },
+                      {
+                        "name": "unclassified_Candidatus_Poseidoniales",
+                        "n": 19,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Thermoplasmata",
+                "n": 97229,
+                "c": [
+                  {
+                    "name": "Candidatus_Thermoprofundales",
+                    "n": 97229,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 94179,
+                        "c": []
+                      },
+                      {
+                        "name": "unclassified_Candidatus_Thermoprofundales",
+                        "n": 3050,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Methanobacteriota",
+            "n": 829,
+            "c": [
+              {
+                "name": "Candidatus_Hikarchaeia",
+                "n": 447,
+                "c": [
+                  {
+                    "name": "environmental_samples",
+                    "n": 447,
+                    "c": []
+                  }
+                ]
+              },
+              {
+                "name": "Methanobacteriota_incertae_sedis",
+                "n": 381,
+                "c": [
+                  {
+                    "name": "Marine_benthic_group_(Methanobacteriota)",
+                    "n": 381,
+                    "c": [
+                      {
+                        "name": "environmental_samples",
+                        "n": 381,
+                        "c": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Thermococci",
+                "n": 1,
+                "c": [
+                  {
+                    "name": "Thermococcales",
+                    "n": 1,
+                    "c": [
+                      {
+                        "name": "Thermococcaceae",
+                        "n": 1,
+                        "c": [
+                          {
+                            "name": "Thermococcus",
+                            "n": 1,
+                            "c": [
+                              {
+                                "name": "Thermococcus_kodakarensis",
+                                "n": 1,
+                                "c": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
